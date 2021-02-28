@@ -51,7 +51,7 @@ const Footer = ({ location, intl }) => (
             <div className="column">
               <p>
                 <a
-                  href="https://www.citybureau.org/"
+                  href="https://www.ilraiseyourhand.org/"
                   target="_blank"
                   rel="noopener"
                 >
@@ -60,31 +60,13 @@ const Footer = ({ location, intl }) => (
               </p>
               <div className="social-icons">
                 <a
-                  href="https://facebook.com/citybureau"
+                  href="https://www.facebook.com/ilraiseyourhand/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Facebook"
                   className="icon-link"
                 >
                   <FontAwesomeIcon icon={["fab", "facebook"]} />
-                </a>
-                <a
-                  href="https://www.instagram.com/city_bureau/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Instagram"
-                  className="icon-link"
-                >
-                  <FontAwesomeIcon icon={["fab", "instagram"]} />
-                </a>
-                <a
-                  href="https://twitter.com/city_bureau"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Twitter"
-                  className="icon-link"
-                >
-                  <FontAwesomeIcon icon={["fab", "twitter"]} />
                 </a>
               </div>
             </div>
