@@ -2,7 +2,7 @@
 
 [![Build status](https://github.com/City-Bureau/chi-covid-resources/workflows/Deploy/badge.svg)](https://github.com/City-Bureau/chi-covid-resources/actions)
 
-Find updated, verified information on resources in the Chicago area during the coronavirus pandemic. Maintained by [City Bureau](https://www.citybureau.org/).
+Find updated, verified information on parent resources for public education in the Chicago area during the coronavirus pandemic. Maintained by [IL Raise Your Hand](https://www.ilraiseyourhand.org/).
 
 ## Setup
 
